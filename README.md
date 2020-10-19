@@ -53,11 +53,11 @@
 ### ⚙️ Latest Projects
 
 <!-- PROJECT:START -->
-- [VSCart - Shopping (using old technology) {2019}](https://www.youtube.com/watch?v=e9UvzZJflqU)
-- [LiveBit - Social Network (prioritise privacy) {2019}](https://www.youtube.com/watch?v=WYIelDSS738)
-- [Evolves - A brand new eCommerce {2020}](https://www.youtube.com/watch?v=Uzcr9YrdODU)
-- [ReMART - Remind Me At Right Time{2020}](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [ExTracker - Of course it don't track ur Ex, its an exercise Tracker {2020}](https://www.youtube.com/watch?v=nME3fE3c9Qw)
+- [VSCart - Shopping (using old technology) | {2019}](#)
+- [LiveBit - Social Network (prioritise privacy) | {2019}](#)
+- [Evolves - A brand new eCommerce | {2020}](#)
+- [ReMART - Remind Me At Right Time | {2020}](#)
+- [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](#)
 <!-- PROJECT:END -->
 
 ➡️ [more projects...](https://linkrr.in/mrvaibh)
