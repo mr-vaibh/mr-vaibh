@@ -50,7 +50,7 @@
 
 ---
 
-### ⛮ Latest Projects
+### ⚙️ Latest Projects
 
 <!-- PROJECT:START -->
 - [VSCart - Shopping (using old technology) {2019}](https://www.youtube.com/watch?v=e9UvzZJflqU)
@@ -97,6 +97,7 @@
 [website]: https://mrvaibh.ml
 [first_site]: http://vaibhclick.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/channel/UCdokRgcJAzSSj-NAvoWs-ug
+[facebook]: https://facebook.com/MrVaiBH0
 [instagram]: https://instagram.com/mrvaibh0
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com/in/mrvaibh
