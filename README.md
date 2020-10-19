@@ -50,24 +50,30 @@
 
 ---
 
-### ⚙️ Latest Projects
+### ⚙️ Projects
 
-<!-- PROJECT:START -->
-- [VSCart - Shopping (using old technology) | {2019}](#)
-- [LiveBit - Social Network (prioritise privacy) | {2019}](#)
-- [Evolves - A brand new eCommerce | {2020}](#)
-- [ReMART - Remind Me At Right Time | {2020}](#)
-- [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](#)
-<!-- PROJECT:END -->
+- [VSCart - Shopping (using old technology) | {2019}](https://vscart.herokuapp.com)
+- [LiveBit - Social Network (prioritise privacy) | {2019}](https://livebit.herokuapp.com)
+- [Evolves - A brand new eCommerce | {2020}](https://evolves.herokuapp.com)
+- [ReMART - Remind Me At Right Time | {2020}](https://remart.herokuapp.com)
+- [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](https://extracker.herokuapp.com)
 
 ➡️ [more projects...](https://linkrr.in/mrvaibh)
+
+---
+
+### 📺 Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more youtube videos...](https://www.youtube.com/channel/UCdokRgcJAzSSj-NAvoWs-ug)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey there, I am new here !](https://dev.to/mrvaibh/hey-there-i-am-new-here-3p1i)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/mrvaibh)
@@ -78,11 +84,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/mr-vaibh/mr-vaibh/pull/13) in [mr-vaibh/mr-vaibh](https://github.com/mr-vaibh/mr-vaibh)
-3. 💪 Opened PR [#13](https://github.com/mr-vaibh/mr-vaibh/pull/13) in [mr-vaibh/mr-vaibh](https://github.com/mr-vaibh/mr-vaibh)
-4. 🎉 Merged PR [#12](https://github.com/mr-vaibh/mr-vaibh/pull/12) in [mr-vaibh/mr-vaibh](https://github.com/mr-vaibh/mr-vaibh)
-5. 💪 Opened PR [#12](https://github.com/mr-vaibh/mr-vaibh/pull/12) in [mr-vaibh/mr-vaibh](https://github.com/mr-vaibh/mr-vaibh)
 <!--END_SECTION:activity-->
 
 </details>
