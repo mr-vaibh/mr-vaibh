@@ -67,7 +67,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started to Dev.to](https://dev.to/mrvaibh/hey-there-i-am-new-here-3p1i)
+- [Hey there, I am new here !](https://dev.to/mrvaibh/hey-there-i-am-new-here-3p1i)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/mrvaibh)
