@@ -1,6 +1,6 @@
 ### Hey there, I'm Vaibhav - aka [Mr. VaiBH][website] 👋
 
-[![Website](https://img.shields.io/website?label=mrvaibh.ml&style=for-the-badge&url=http://mrvaibh.ml)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=mrvaibh.ml&style=for-the-badge&url=http://mrvaibh.ml)](http://mrvaibh.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
 
 ## I'm a Student, Developer, and CR7 Fan!!
