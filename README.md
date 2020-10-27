@@ -19,7 +19,7 @@
 - [ ] Express.js
 - [ ] ReactJS
 
-``` Stay Happy ! ```
+> Stay Happy !
 
 ---
 <!-- ### Spotify Playing 🎧
