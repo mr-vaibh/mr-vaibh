@@ -11,6 +11,13 @@
 - 🥅 2020 Goals: Pass 12th CBSE Exam with good grades
 - ⚡ Fun fact: I love to draw, play chess and football
 
+## ToDo(s)
+- [x] PHP
+- [x] Python
+- [x] JavaScript
+- [ ] MongoDB
+- [ ] Express.js
+- [ ] ReactJS
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="mrvaibh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
