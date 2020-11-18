@@ -110,7 +110,7 @@
 [website]: https://mrvaibh.ml
 [first_site]: http://vaibhclick.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
-[youtube]: https://youtube.com/channel/UCdokRgcJAzSSj-NAvoWs-ug
+[youtube]: https://www.youtube.com/channel/UCLm5yk0PKIj6p7waCtedDeA
 [facebook]: https://facebook.com/MrVaiBH0
 [instagram]: https://instagram.com/mrvaibh0
 [linkedin]: https://linkedin.com/in/mrvaibh
