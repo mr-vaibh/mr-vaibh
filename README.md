@@ -1,4 +1,4 @@
-### Hey there, I'm Vaibhav - aka [Mr. VaiBH][website] 👋
+### Hey there, I'm Vaibhav - aka [Mr. VaiBH][google_mrvaibh] 👋
 
 [![Website](https://img.shields.io/website?label=mrvaibh.ml&style=for-the-badge&url=https://mrvaibh.herokuapp.com)](http://mrvaibh.ml)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
@@ -112,6 +112,7 @@
 
 </details>
 
+[google_search]: https://www.google.com/search?q=mrvaibh
 [website]: https://mrvaibh.ml
 [portfolio]: http://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
