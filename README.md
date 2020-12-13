@@ -112,7 +112,7 @@ _(CTRL+Click the links for better experience )_
 
 </details>
 
-[google_search]: https://www.google.com/search?q=mrvaibh
+[google_mrvaibh]: https://www.google.com/search?q=mrvaibh
 [website]: https://mrvaibh.ml
 [portfolio]: http://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
