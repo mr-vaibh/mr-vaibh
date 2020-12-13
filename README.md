@@ -10,7 +10,7 @@ _(CTRL+Click the links for better experience )_
 - 🔭 I just launched my _(kindof)_ portfolio site: [vaibhav-shukla][portfolio]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Pass 12th CBSE Exam with good grades
+- 🥅 2021 Goals: Pass 12th CBSE Exam with good grades
 - ⚡ Fun fact: I love to draw, play chess and football
 
 ## ToDo(s)
