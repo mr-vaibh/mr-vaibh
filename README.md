@@ -7,7 +7,7 @@
 
 _(CTRL+Click the links for better experience )_
 
-- 🔭 I just launched my {kindof} portfolio site: [vaibhav-shukla][portfolio]!
+- 🔭 I just launched my _(kindof)_ portfolio site: [vaibhav-shukla][portfolio]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Pass 12th CBSE Exam with good grades
