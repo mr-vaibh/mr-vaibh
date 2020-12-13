@@ -5,7 +5,6 @@
 
 ## I'm a Student, Developer, and CR7 Fan!!
 
----
 (CTRL+Click the links for better experience )
 
 - 🔭 I just launched my {kindof} portfolio site: [vaibhav-shukla][portfolio]!
