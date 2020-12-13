@@ -12,12 +12,14 @@
 - ⚡ Fun fact: I love to draw, play chess and football
 
 ## ToDo(s)
+- [x] Visual Basic
 - [x] PHP
 - [x] Python
+- [x] Django
 - [x] JavaScript
+- [x] ReactJS
 - [ ] MongoDB
 - [ ] Express.js
-- [ ] ReactJS
 
 ``` > Stay Happy ! ```
 
