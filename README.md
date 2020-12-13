@@ -5,7 +5,7 @@
 
 ## I'm a Student, Developer, and CR7 Fan!!
 
-- 🔭 I just launched my first site: [vaibhclick][first_site]!
+- 🔭 I just launched my {kindof} portfolio site: [vaibhav-shukla][portfolio]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Pass 12th CBSE Exam with good grades
@@ -111,7 +111,7 @@
 </details>
 
 [website]: https://mrvaibh.ml
-[first_site]: http://vaibhclick.herokuapp.com
+[portfolio]: http://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
 [youtube]: https://www.youtube.com/channel/UCLm5yk0PKIj6p7waCtedDeA
 [facebook]: https://facebook.com/MrVaiBH0
