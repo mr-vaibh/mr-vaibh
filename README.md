@@ -23,7 +23,7 @@ _(CTRL+Click the links for better experience )_
 - [ ] MongoDB
 - [ ] Express.js
 
-``` > Stay Happy ! ```
+``` > Stay Happy Vaibhav ! ```
 
 ---
 <!-- ### Spotify Playing 🎧
@@ -113,8 +113,8 @@ _(CTRL+Click the links for better experience )_
 </details>
 
 [google_mrvaibh]: https://www.google.com/search?q=mrvaibh
-[website]: https://mrvaibh.ml
-[portfolio]: http://vaibhav-shukla.herokuapp.com
+[website]: http://mrvaibh.ml
+[portfolio]: https://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
 [youtube]: https://www.youtube.com/channel/UCLm5yk0PKIj6p7waCtedDeA
 [facebook]: https://facebook.com/MrVaiBH0
