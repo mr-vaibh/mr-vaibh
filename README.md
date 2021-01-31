@@ -101,6 +101,7 @@ _(CTRL+Click the links for better experience )_
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/jaydeepdholakia/Akinator_Python/pull/1) in [jaydeepdholakia/Akinator_Python](https://github.com/jaydeepdholakia/Akinator_Python)
 <!--END_SECTION:activity-->
 
 </details>
