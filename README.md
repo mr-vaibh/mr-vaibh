@@ -11,7 +11,7 @@ _(CTRL+Click the links for better experience )_
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Pass 12th CBSE Exam with good grades
-- ⚡ Fun fact: I love to draw, play chess and football
+- ⚡ Fun fact: I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO
 
 ## ToDo(s)
 - [x] Visual Basic
