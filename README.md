@@ -13,7 +13,7 @@ _(CTRL+Click the links for better experience )_
 - 🥅 2021 Goals: Pass 12th CBSE Exam with good grades
 - ⚡ Fun fact: I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO
 
-## ToDo(s)
+## Skillz(s)
 - [x] Visual Basic
 - [x] PHP
 - [x] Python
