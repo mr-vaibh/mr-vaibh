@@ -117,7 +117,7 @@ _(CTRL+Click the links for better experience )_
 [website]: http://mrvaibh.ml
 [portfolio]: https://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
-[youtube]: https://www.youtube.com/channel/UCLm5yk0PKIj6p7waCtedDeA
+[youtube]: https://www.youtube.com/channel/UCdokRgcJAzSSj-NAvoWs-ug
 [facebook]: https://facebook.com/MrVaiBH0
 [instagram]: https://instagram.com/mrvaibh0
 [linkedin]: https://linkedin.com/in/mrvaibh
