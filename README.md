@@ -80,6 +80,7 @@ _(CTRL+Click the links for better experience )_
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [starting react.js #javascript and playing #chess in meantime](https://www.youtube.com/watch?v=kc075ChqbmU)
 - [Hey !](https://www.youtube.com/watch?v=xVP_iEOAKic)
 <!-- YOUTUBE:END -->
 
