@@ -102,7 +102,7 @@ _(CTRL+Click the links for better experience )_
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jaydeepdholakia/Akinator_Python/pull/1) in [jaydeepdholakia/Akinator_Python](https://github.com/jaydeepdholakia/Akinator_Python)
+1. 🗣 Commented on [#417](https://github.com/bombardier-gif/covid-vaccine-booking/issues/417) in [bombardier-gif/covid-vaccine-booking](https://github.com/bombardier-gif/covid-vaccine-booking)
 <!--END_SECTION:activity-->
 
 </details>
