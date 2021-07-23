@@ -102,7 +102,7 @@ _(CTRL+Click the links for better experience )_
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/bombardier-gif/covid-vaccine-booking/issues/417) in [bombardier-gif/covid-vaccine-booking](https://github.com/bombardier-gif/covid-vaccine-booking)
+1. 🎉 Merged PR [#3](https://github.com/mrvaibh/mrvaibh/pull/3) in [mrvaibh/mrvaibh](https://github.com/mrvaibh/mrvaibh)
 <!--END_SECTION:activity-->
 
 </details>
