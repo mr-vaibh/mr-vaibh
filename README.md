@@ -115,7 +115,7 @@ _(CTRL+Click the links for better experience )_
 </details>
 
 [google_mrvaibh]: https://www.google.com/search?q=mrvaibh
-[website]: http://mrvaibh.ml
+[website]: https://mrvaibh.herokuapp.com
 [portfolio]: https://vaibhav-shukla.herokuapp.com
 [twitter]: https://twitter.com/MrVaiBH0
 [youtube]: https://www.youtube.com/channel/UCdokRgcJAzSSj-NAvoWs-ug
