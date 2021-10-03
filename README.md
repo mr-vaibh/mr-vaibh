@@ -7,10 +7,10 @@
 
 _(CTRL+Click the links for better experience )_
 
-- 🔭 I just launched my _(kindof)_ portfolio site: [vaibhav-shukla][portfolio]!
+- 🔭 Portfolio _(kindof)_ site: [vaibhav-shukla][portfolio]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Pass 12th CBSE Exam with good grades
+- 👯 I’m looking to collaborate with other developers/creators
+- 🥅 New 2021 Goals: get a good college
 - ⚡ Fun fact: I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO
 
 ## Skillz(s)
@@ -32,12 +32,12 @@ _(CTRL+Click the links for better experience )_
 
 ### Connect with me:
 
-[<img align="left" alt="mrvaibh.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mrvaibh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="MrVaiBH0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mrvaibh0 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mrvaibh0 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mrvaibh0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mrvaibh official site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mrvaibh YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="MrVaiBH0 Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mrvaibh0 Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="mrvaibh0 Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mrvaibh LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -72,8 +72,9 @@ _(CTRL+Click the links for better experience )_
 - [Evolves - A brand new eCommerce | {2020}](https://evolves.herokuapp.com)
 - [ReMART - Remind Me At Right Time | {2020}](https://remart.herokuapp.com)
 - [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](https://extracker.herokuapp.com)
+- [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
 
-➡️ [more projects...](https://linkrr.in/mrvaibh)
+➡️ [more projects...](https://mrvaibh.bio.link/)
 
 ---
 
