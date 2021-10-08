@@ -98,7 +98,7 @@ _(CTRL+Click the links for better experience )_
 - [Hey there, I am new here !](https://dev.to/mrvaibh/hey-there-i-am-new-here-3p1i)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/mrvaibh)
+➡️ [more blog posts...](https://mrvaibh.medium.com)
 
 ---
 
