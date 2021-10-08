@@ -106,7 +106,7 @@ _(CTRL+Click the links for better experience )_
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mrvaibh/mrvaibh/pull/3) in [mrvaibh/mrvaibh](https://github.com/mrvaibh/mrvaibh)
+1. 💪 Opened PR [#360](https://github.com/chandrikadeb7/Hacktoberfest_2021/pull/360) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 
 </details>
