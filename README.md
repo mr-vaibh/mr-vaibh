@@ -92,6 +92,9 @@ _(CTRL+Click the links for better experience )_
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python is NOT a slow language](https://mrvaibh.medium.com/python-is-not-a-slow-language-274bf036af24?source=rss-3cc4b804b385------2)
+- [Is GitHub Copilot worth the cockpit?](https://mrvaibh.medium.com/is-github-copilot-worth-the-cockpit-231db9fe3ac4?source=rss-3cc4b804b385------2)
+- [React + Django = Full stack, the best web integration](https://mrvaibh.medium.com/react-django-full-stack-the-best-web-integration-e9d92af43b96?source=rss-3cc4b804b385------2)
 - [Hey there, I am new here !](https://dev.to/mrvaibh/hey-there-i-am-new-here-3p1i)
 <!-- BLOG-POST-LIST:END -->
 
