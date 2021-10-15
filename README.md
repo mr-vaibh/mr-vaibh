@@ -106,7 +106,7 @@ _(CTRL+Click the links for better experience )_
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#360](https://github.com/chandrikadeb7/Hacktoberfest_2021/pull/360) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
+1. 🗣 Commented on [#43094](https://github.com/firstcontributions/first-contributions/issues/43094) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 </details>
