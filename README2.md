@@ -24,10 +24,19 @@
 
 - ⚡ Fun fact **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
+## Skillz(s)
+- [x] Visual Basic
+- [x] PHP
+- [x] Python
+- [x] Django
+- [x] JavaScript
+- [x] ReactJS
+- [ ] MongoDB
+- [ ] Express.js
 
----
+``` > Stay Happy Vaibhav ! ```
 
-### ⚙️ Projects
+## ⚙️ Projects
 
 - [Evolves - A brand new eCommerce | {coming soon...}](https://evolves.herokuapp.com)
 - [NeutralTip - New/media blog | {2021}](https://neutraltip.herokuapp.com)
@@ -40,9 +49,8 @@
 
 ➡️ [more projects...](https://mrvaibh.bio.link/)
 
----
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Django — Best practices & mistakes](https://mrvaibh.medium.com/django-best-practices-mistakes-7e7ae5dcf89c?source=rss-3cc4b804b385------2)
 - [Python is NOT a slow language](https://mrvaibh.medium.com/python-is-not-a-slow-language-274bf036af24?source=rss-3cc4b804b385------2)
