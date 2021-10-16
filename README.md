@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Shukla - aka [Mr. VaiBH][https://www.google.com/search?q=mrvaibh]</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Shukla - aka [Mr. VaiBH](https://www.google.com/search?q=mrvaibh)</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-vaibh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vaibh" /> </p>
