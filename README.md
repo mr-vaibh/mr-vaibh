@@ -13,9 +13,9 @@
 - 👯 I’m looking to collaborate with other developers/creators
 - 🥅 New 2021 Goals: get a good college
 - 📝 I regularly write TECH articles on [https://mrvaibh.medium.com/](https://mrvaibh.medium.com/)
-- 💬 Ask me anything about **[Python, JavaScript, Django, ReactJS, Heroku]**
+- 💬 Ask me anything about ```["Python", "JavaScript", "Django", "ReactJS", "Heroku", "CSS"]```
 - 📫 Reach me at **shuklavaibhav336@gmail.com**
-- ⚡ Fun fact **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
+- ⚡ Fun fact: **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
 ## Skillz(s) to be learned...
 - [x] Visual Basic
