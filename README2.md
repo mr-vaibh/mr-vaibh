@@ -9,19 +9,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
 
 - 🔭 I’m currently working on [Evolves](https://evolves.herokuapp.com/) - a Django ECommerce
-
 - 🌱 I’m currently learning **MERN stack, Dart language**
-
 - 👯 I’m looking to collaborate with other developers/creators
-
 - 🥅 New 2021 Goals: get a good college
-
 - 📝 I regularly write TECH articles on [https://mrvaibh.medium.com/](https://mrvaibh.medium.com/)
-
 - 💬 Ask me anything about **[Python, JavaScript, Django, ReactJS, Heroku]**
-
 - 📫 Reach me at **shuklavaibhav336@gmail.com**
-
 - ⚡ Fun fact **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
 ## Skillz(s) to be learned...
