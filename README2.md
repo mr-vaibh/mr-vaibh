@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
-## Skillz(s)
+## Skillz(s) to be learned...
 - [x] Visual Basic
 - [x] PHP
 - [x] Python
@@ -33,6 +33,7 @@
 - [x] ReactJS
 - [ ] MongoDB
 - [ ] Express.js
+- [ ] DART, Flutter
 
 ``` > Stay Happy Vaibhav ! ```
 
