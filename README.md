@@ -67,12 +67,14 @@ _(CTRL+Click the links for better experience )_
 
 ### ⚙️ Projects
 
-- [VSCart - Shopping (using old technology) | {2019}](https://vscart.herokuapp.com)
-- [LiveBit - Social Network (prioritise privacy) | {2019}](https://livebit.herokuapp.com)
+- [NeutralTip - New/media blog | {2021}](https://neutraltip.herokuapp.com)
+- [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
+- [Zeus Tech Official Website | {2021}](https://zeustech.in)
+- [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](https://extracker.herokuapp.com)
 - [Evolves - A brand new eCommerce | {2020}](https://evolves.herokuapp.com)
 - [ReMART - Remind Me At Right Time | {2020}](https://remart.herokuapp.com)
-- [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](https://extracker.herokuapp.com)
-- [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
+- [VSCart - ECommerce (using old technology) | {2019}](https://vscart.herokuapp.com)
+- [LiveBit - Social Network (prioritise privacy) | {2019}](https://livebit.herokuapp.com)
 
 ➡️ [more projects...](https://mrvaibh.bio.link/)
 
