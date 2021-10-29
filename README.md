@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43094](https://github.com/firstcontributions/first-contributions/issues/43094) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🗣 Commented on [#360](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/360) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
 <!--END_SECTION:activity-->
 </details>
 
