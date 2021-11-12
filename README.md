@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#360](https://github.com/chandrikadeb7/Hacktoberfest_2021/issues/360) in [chandrikadeb7/Hacktoberfest_2021](https://github.com/chandrikadeb7/Hacktoberfest_2021)
+1. 🎉 Merged PR [#3](https://github.com/mr-vaibh/vscart/pull/3) in [mr-vaibh/vscart](https://github.com/mr-vaibh/vscart)
 <!--END_SECTION:activity-->
 </details>
 
