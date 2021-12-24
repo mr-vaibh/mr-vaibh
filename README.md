@@ -80,7 +80,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mr-vaibh/vscart/pull/3) in [mr-vaibh/vscart](https://github.com/mr-vaibh/vscart)
+1. 🗣 Commented on [#7794](https://github.com/wagtail/wagtail/issues/7794) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 <!--END_SECTION:activity-->
 </details>
 
