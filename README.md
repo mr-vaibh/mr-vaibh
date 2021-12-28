@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-vaibh&no-bg=true&row=1" alt="mr-vaibh" /></a> </p>
 
-[![Website](https://img.shields.io/website?label=vaibhavshukla.ml&style=for-the-badge&url=https://vaibhav-shukla.herokuapp.com)](https://vaibhav-shukla.herokuapp.com)
+[![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https://mr-vaibh.github.io)](https://mr-vaibh.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
 
 - 🔭 I’m currently working on [Evolves](https://evolves.herokuapp.com/) - a Django ECommerce
