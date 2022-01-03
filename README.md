@@ -26,6 +26,7 @@
 - [x] ReactJS
 - [ ] MongoDB
 - [ ] Express.js
+- [ ] HTTP (request headers, CORS, cookies, JWT)
 - [ ] DART, Flutter
 
 ``` > Stay Happy Vaibhav ! ```
