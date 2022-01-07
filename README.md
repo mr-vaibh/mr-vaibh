@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7794](https://github.com/wagtail/wagtail/issues/7794) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. ❗️ Opened issue [#46](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/46) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
 <!--END_SECTION:activity-->
 </details>
 
