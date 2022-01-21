@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/46) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
+1. ❗️ Opened issue [#7](https://github.com/mr-vaibh/neutraltip/issues/7) in [mr-vaibh/neutraltip](https://github.com/mr-vaibh/neutraltip)
 <!--END_SECTION:activity-->
 </details>
 
