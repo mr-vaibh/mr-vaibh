@@ -33,7 +33,7 @@
 
 ## ⚙️ "Featured" Projects
 
-- [Evolves - A brand new eCommerce | {coming soon...}](https://evolves.herokuapp.com)
+- [Evolves - A brand new eCommerce | {2021}](https://evolves.herokuapp.com)
 - [NeutralTip - New/media blog | {2021}](https://neutraltip.herokuapp.com)
 - [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
 - [Zeus Tech Official Website | {2021}](https://zeustech.in)
