@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/mr-vaibh/neutraltip/issues/7) in [mr-vaibh/neutraltip](https://github.com/mr-vaibh/neutraltip)
+1. 🗣 Commented on [#4184](https://github.com/reactjs/reactjs.org/issues/4184) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
 <!--END_SECTION:activity-->
 </details>
 
