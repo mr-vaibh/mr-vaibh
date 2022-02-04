@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4184](https://github.com/reactjs/reactjs.org/issues/4184) in [reactjs/reactjs.org](https://github.com/reactjs/reactjs.org)
+1. 💪 Opened PR [#3713](https://github.com/npm/npm-expansions/pull/3713) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
 <!--END_SECTION:activity-->
 </details>
 
