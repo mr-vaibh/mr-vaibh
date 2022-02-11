@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3713](https://github.com/npm/npm-expansions/pull/3713) in [npm/npm-expansions](https://github.com/npm/npm-expansions)
+1. 🎉 Merged PR [#10](https://github.com/mr-vaibh/neutraltip/pull/10) in [mr-vaibh/neutraltip](https://github.com/mr-vaibh/neutraltip)
 <!--END_SECTION:activity-->
 </details>
 
