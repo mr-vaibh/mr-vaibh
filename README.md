@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/mr-vaibh/neutraltip/pull/10) in [mr-vaibh/neutraltip](https://github.com/mr-vaibh/neutraltip)
+1. 🗣 Commented on [#2725](https://github.com/appwrite/appwrite/issues/2725) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 </details>
 
