@@ -83,7 +83,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2725](https://github.com/appwrite/appwrite/issues/2725) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. ❗️ Opened issue [#1](https://github.com/02Manas-jha/manas-upload/issues/1) in [02Manas-jha/manas-upload](https://github.com/02Manas-jha/manas-upload)
 <!--END_SECTION:activity-->
 </details>
 
