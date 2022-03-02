@@ -8,33 +8,40 @@
 [![Website](https://img.shields.io/website?label=visit+my+website&style=for-the-badge&url=https://mr-vaibh.github.io)](https://mr-vaibh.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
 
-- 🔭 I’m currently working on [Evolves](https://evolves.herokuapp.com/) - a Django ECommerce
+- 🔭 I’m currently working on few contract based work for a corp.
 - 🌱 I’m currently learning **DSA, Dart language**
 - 👯 I’m looking to have some mentors and collaborate with other developers/creators
-- 🥅 New 2021 Goals: get a good college
+- 🥅 New 2022 Goals: get a good college
 - 📝 I regularly write **TECH articles** on [https://mrvaibh.medium.com/](https://mrvaibh.medium.com/)
 - 💬 Ask me anything about ```["Python", "JavaScript", "Django", "ReactJS", "Heroku", "CSS"]```
 - 📫 Reach me at **shuklavaibhav336@gmail.com**
 - ⚡ Fun fact: **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
-## Skillz(s) to be learned...
-- [x] Visual Basic
-- [x] PHP
-- [x] Python
-- [x] Django
-- [x] JavaScript
-- [x] ReactJS
-- [ ] MongoDB
-- [ ] Express.js
+## Skillz(s)
+### Master at
+- [x] Primary Languages - Python, JavaScript, Visual Basic, PHP, CSS
+- [x] Secondary Languages - C++, Java
+- [x] Frameworks - Django, React JS, Express.js, MongoDB, Bootstrap, jQuery so on...
+- [x] Not to mention - Devops, SEO, desiging
+### To learn more about
+- [ ] Next.JS
 - [ ] HTTP (request headers, CORS, cookies, JWT)
-- [ ] DART, Flutter
+- [ ] Network security
+- [ ] DART, and eventually Flutter
+- [ ] AWS
 
 ``` > Stay Happy Vaibhav ! ```
 
+
+## 💡Project ideas
+- SOS website - MEAN stack
+- Advanced Github profile viewer - React.js
+- Site connectivity checker - Python sockets
+
 ## ⚙️ "Featured" Projects
 
+- [NerdsWay - Top notch blog with full of features | {2022}](https://nerdsway.herokuapp.com)
 - [Evolves - A brand new eCommerce | {2021}](https://evolves.herokuapp.com)
-- [NeutralTip - New/media blog | {2021}](https://neutraltip.herokuapp.com)
 - [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
 - [Zeus Tech Official Website | {2021}](https://zeustech.in)
 - [ExTracker - Ofc it don't track ur Ex, its an exercise Tracker | {2020}](https://extracker.herokuapp.com)
