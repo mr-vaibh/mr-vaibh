@@ -54,13 +54,13 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Best algorithm to implement “time on page” in vanilla javascript using sendbeacon&lpar;&rpar;](https://javascript.plainenglish.io/best-algorithm-to-implement-time-on-page-in-vanilla-javascript-using-sendbeacon-530bc8391ef5?source=rss-3cc4b804b385------2)
+- [Algorithm to Calculate “Time On Page” in JavaScript using sendBeacon&lpar;&rpar;](https://javascript.plainenglish.io/best-algorithm-to-implement-time-on-page-in-vanilla-javascript-using-sendbeacon-530bc8391ef5?source=rss-3cc4b804b385------2)
 - [Handle MEDIA files in production — Django](https://mrvaibh.medium.com/handle-media-files-in-production-django-cf984aea5490?source=rss-3cc4b804b385------2)
 - [Blockchain — Explained and How to create](https://medium.com/geekculture/blockchain-explained-and-how-to-create-d897bc20db64?source=rss-3cc4b804b385------2)
 - [Django — Best practices &amp; mistakes](https://medium.com/geekculture/django-best-practices-mistakes-7e7ae5dcf89c?source=rss-3cc4b804b385------2)
 - [Python is NOT a slow language](https://mrvaibh.medium.com/python-is-not-a-slow-language-274bf036af24?source=rss-3cc4b804b385------2)
 - [Is GitHub Copilot worth the cockpit?](https://mrvaibh.medium.com/is-github-copilot-worth-the-cockpit-231db9fe3ac4?source=rss-3cc4b804b385------2)
-- [React + Django = Full stack, the best web integration](https://mrvaibh.medium.com/react-django-full-stack-the-best-web-integration-e9d92af43b96?source=rss-3cc4b804b385------2)
+- [Integrate React with Django: The Best Full-Stack Web Integration](https://javascript.plainenglish.io/react-django-full-stack-the-best-web-integration-e9d92af43b96?source=rss-3cc4b804b385------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://mrvaibh.medium.com)
 
