@@ -54,6 +54,7 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Get Started with the MERN Stack — the easy way](https://mrvaibh.medium.com/how-to-get-started-with-the-mern-stack-the-easy-way-b9758fe45956?source=rss-3cc4b804b385------2)
 - [Algorithm to Calculate “Time On Page” in JavaScript using sendBeacon&lpar;&rpar;](https://javascript.plainenglish.io/best-algorithm-to-implement-time-on-page-in-vanilla-javascript-using-sendbeacon-530bc8391ef5?source=rss-3cc4b804b385------2)
 - [Handle MEDIA files in production — Django](https://mrvaibh.medium.com/handle-media-files-in-production-django-cf984aea5490?source=rss-3cc4b804b385------2)
 - [Blockchain — Explained and How to create](https://medium.com/geekculture/blockchain-explained-and-how-to-create-d897bc20db64?source=rss-3cc4b804b385------2)
