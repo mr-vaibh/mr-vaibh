@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/02Manas-jha/manas-upload/issues/1) in [02Manas-jha/manas-upload](https://github.com/02Manas-jha/manas-upload)
+1. 🎉 Merged PR [#3](https://github.com/mr-vaibh/nerdsway/pull/3) in [mr-vaibh/nerdsway](https://github.com/mr-vaibh/nerdsway)
 <!--END_SECTION:activity-->
 </details>
 
