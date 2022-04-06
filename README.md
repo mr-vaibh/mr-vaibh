@@ -25,6 +25,7 @@
 - [x] Not to mention - Devops, SEO, desiging
 ### To learn more about
 - [ ] Next.JS
+- [ ] Ruby on rails
 - [ ] HTTP (request headers, CORS, cookies, JWT)
 - [ ] Network security
 - [ ] DART, and eventually Flutter
