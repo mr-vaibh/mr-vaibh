@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/wagtail/wagtail.org/issues/153) in [wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)
+1. 🗣 Commented on [#8312](https://github.com/wagtail/wagtail/issues/8312) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 <!--END_SECTION:activity-->
 </details>
 
