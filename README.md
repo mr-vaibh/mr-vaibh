@@ -94,7 +94,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8312](https://github.com/wagtail/wagtail/issues/8312) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. 🎉 Merged PR [#1](https://github.com/mrvaibh/Zeus-Uploader-Automation/pull/1) in [mrvaibh/Zeus-Uploader-Automation](https://github.com/mrvaibh/Zeus-Uploader-Automation)
 <!--END_SECTION:activity-->
 </details>
 
