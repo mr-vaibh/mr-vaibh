@@ -94,7 +94,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/mrvaibh/Zeus-Uploader-Automation/pull/3) in [mrvaibh/Zeus-Uploader-Automation](https://github.com/mrvaibh/Zeus-Uploader-Automation)
+1. ❗️ Closed issue [#13](https://github.com/mrvaibh/Zeus-Uploader-Automation/issues/13) in [mrvaibh/Zeus-Uploader-Automation](https://github.com/mrvaibh/Zeus-Uploader-Automation)
 <!--END_SECTION:activity-->
 </details>
 
