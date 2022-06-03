@@ -94,7 +94,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/mrvaibh/Zeus-Uploader-Automation/issues/16) in [mrvaibh/Zeus-Uploader-Automation](https://github.com/mrvaibh/Zeus-Uploader-Automation)
+1. 💪 Opened PR [#1](https://github.com/abhishek-1mg/Paytm_Web_Sample_Kit_Python/pull/1) in [abhishek-1mg/Paytm_Web_Sample_Kit_Python](https://github.com/abhishek-1mg/Paytm_Web_Sample_Kit_Python)
 <!--END_SECTION:activity-->
 </details>
 
