@@ -96,7 +96,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/abhishek-1mg/Paytm_Web_Sample_Kit_Python/pull/1) in [abhishek-1mg/Paytm_Web_Sample_Kit_Python](https://github.com/abhishek-1mg/Paytm_Web_Sample_Kit_Python)
+1. 🎉 Merged PR [#17](https://github.com/mrvaibh/Zeus-Uploader-Automation/pull/17) in [mrvaibh/Zeus-Uploader-Automation](https://github.com/mrvaibh/Zeus-Uploader-Automation)
 <!--END_SECTION:activity-->
 </details>
 
