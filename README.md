@@ -96,7 +96,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/davidstutz/bootstrap-multiselect/issues/257) in [davidstutz/bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
+1. 🗣 Commented on [#153](https://github.com/wagtail/wagtail.org/issues/153) in [wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)
 <!--END_SECTION:activity-->
 </details>
 
