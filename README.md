@@ -96,7 +96,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/wagtail/wagtail.org/issues/153) in [wagtail/wagtail.org](https://github.com/wagtail/wagtail.org)
+1. 🗣 Commented on [#1049](https://github.com/django-helpdesk/django-helpdesk/issues/1049) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
 <!--END_SECTION:activity-->
 </details>
 
