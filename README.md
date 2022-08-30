@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/website?label=visit+my+website&style=for-the-badge&url=https://mr-vaibh.github.io)](https://mr-vaibh.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mrvaibh0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmr-vaibh&screen_name=MrVaiBH0)
 
+<h3 align="center">Disclaimer: Projects' URL might not work, as <a href="https://blog.heroku.com/next-chapter">Heroku is not longer free</a></h3>
+
 **(PS: I'm more active on GitLab these days)**
 
 - 🔭 I’m currently working on few contract based work for a corp.
