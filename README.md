@@ -15,7 +15,6 @@
 - 🔭 I’m currently working on few contract based work for a corp.
 - 🌱 I’m currently learning **DSA, Dart language**
 - 👯 I’m looking to have some mentors and collaborate with other developers/creators
-- 🥅 New 2022 Goals: get a good college
 - 📝 I regularly write **TECH articles** on [https://mrvaibh.medium.com/](https://mrvaibh.medium.com/)
 - 💬 Ask me anything about ```["Python", "JavaScript", "Django", "ReactJS", "Heroku", "CSS"]```
 - 📫 Reach me at **shuklavaibhav336@gmail.com**
