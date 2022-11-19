@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **DSA, Dart language**
 - 👯 I’m looking to have some mentors and collaborate with other developers/creators
 - 📝 I regularly write **TECH articles** on [https://mrvaibh.medium.com/](https://mrvaibh.medium.com/)
-- 💬 Ask me anything about ```["Python", "JavaScript", "Django", "ReactJS", "Heroku", "CSS"]```
+- 💬 Ask me anything related to Computer Science
 - 📫 Reach me at **shuklavaibhav336@gmail.com**
 - ⚡ Fun fact: **I love to draw, play chess and football. I can also play Game of Thrones theme on PIANO**
 
@@ -42,6 +42,7 @@
 - SOS website - MEAN stack
 - Advanced Github profile viewer - React.js
 - Site connectivity checker - Python sockets
+- Tinder for my college
 
 ## ⚙️ "Featured" Projects
 
