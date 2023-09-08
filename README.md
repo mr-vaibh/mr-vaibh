@@ -98,7 +98,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1049](https://github.com/django-helpdesk/django-helpdesk/issues/1049) in [django-helpdesk/django-helpdesk](https://github.com/django-helpdesk/django-helpdesk)
+1. 🚀 Published release [Release 0.1.2](https://github.com/mr-vaibh/op-balls/releases/tag/0.1.2) in [mr-vaibh/op-balls](https://github.com/mr-vaibh/op-balls)
 <!--END_SECTION:activity-->
 </details>
 
