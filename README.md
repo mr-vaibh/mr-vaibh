@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">, I'm Vaibhav Shukla - aka <a href="https://www.google.com/search?q=mrvaibh" target="_blank">Mr. VaiBH</a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px">, I'm Vaibhav Shukla - aka Mr. VaiBH</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mr-vaibh&label=Profile%20views&color=0e75b6&style=flat" alt="mr-vaibh" /> </p>
@@ -22,23 +22,15 @@
 
 ## Skillz(s)
 ### Master at
-- [x] Primary Languages - Python, JavaScript, Visual Basic, PHP, CSS
-- [x] Secondary Languages - C++, Java
+- [x] Languages - Python, Java, C++, JavaScript, Node.js, Visual Basic, PHP, HTML/CSS
 - [x] Frameworks - Django, React JS, Express.js, MongoDB, Bootstrap, jQuery so on...
-- [x] Not to mention - Devops, SEO, desiging
-### To learn more about
-- [ ] Next.JS
-- [ ] TypeScript
-- [ ] Ruby on rails
-- [ ] HTTP (request headers, CORS, cookies, JWT)
-- [ ] Network security
-- [ ] DART, and eventually Flutter
-- [ ] AWS
+- [x] Not to mention - Devops, UI/UX, Docker, Unit Testing
 
 ``` > Stay Happy Vaibhav ! ```
 
 
 ## 💡Project ideas
+- Stutter Recognition Model
 - SOS website - MEAN stack
 - Advanced Github profile viewer - React.js
 - Site connectivity checker - Python sockets
@@ -46,6 +38,7 @@
 
 ## ⚙️ "Featured" Projects
 
+- [Optic motion simulator - Measure VRT for Optometry research | {2023}](https://github.com/mr-vaibh/op-balls/releases/latest)
 - [NerdsWay - Top notch blog with full of features | {2022}](https://nerdsway.herokuapp.com)
 - [Evolves - A brand new eCommerce | {2021}](https://evolves.herokuapp.com)
 - [Longerr - URL Longener | {2021}](https://longerr.herokuapp.com)
