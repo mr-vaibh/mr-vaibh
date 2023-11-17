@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release 0.1.2](https://github.com/mr-vaibh/op-balls/releases/tag/0.1.2) in [mr-vaibh/op-balls](https://github.com/mr-vaibh/op-balls)
+1. 💪 Opened PR [#2](https://github.com/gdscauh/website/pull/2) in [gdscauh/website](https://github.com/gdscauh/website)
 <!--END_SECTION:activity-->
 </details>
 
