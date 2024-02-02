@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/gdscauh/website/pull/2) in [gdscauh/website](https://github.com/gdscauh/website)
+1. 🎉 Merged PR [#1](https://github.com/goyal02aditi/MedDiti-Frontend/pull/1) in [goyal02aditi/MedDiti-Frontend](https://github.com/goyal02aditi/MedDiti-Frontend)
 <!--END_SECTION:activity-->
 </details>
 
