@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/goyal02aditi/MedDiti-Frontend/pull/1) in [goyal02aditi/MedDiti-Frontend](https://github.com/goyal02aditi/MedDiti-Frontend)
+1. 🎉 Merged PR [#1](https://github.com/mr-vaibh/gdsc-git/pull/1) in [mr-vaibh/gdsc-git](https://github.com/mr-vaibh/gdsc-git)
 <!--END_SECTION:activity-->
 </details>
 
