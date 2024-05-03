@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mr-vaibh/gdsc-git/pull/1) in [mr-vaibh/gdsc-git](https://github.com/mr-vaibh/gdsc-git)
+1. ❗ Opened issue [#3](https://github.com/mr-vaibh/facecrop-thumb/issues/3) in [mr-vaibh/facecrop-thumb](https://github.com/mr-vaibh/facecrop-thumb)
 <!--END_SECTION:activity-->
 </details>
 
