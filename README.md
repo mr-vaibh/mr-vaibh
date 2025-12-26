@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/mr-vaibh/facecrop-thumb/issues/3) in [mr-vaibh/facecrop-thumb](https://github.com/mr-vaibh/facecrop-thumb)
+1.  Labeled issue [#35451](https://github.com/frappe/frappe/issues/35451) in [frappe/frappe](https://github.com/frappe/frappe)
 <!--END_SECTION:activity-->
 </details>
 
