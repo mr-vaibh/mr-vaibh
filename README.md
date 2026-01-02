@@ -91,7 +91,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1.  Labeled issue [#35451](https://github.com/frappe/frappe/issues/35451) in [frappe/frappe](https://github.com/frappe/frappe)
+1. 🗣 Commented on [#35451](https://github.com/frappe/frappe/issues/35451#issuecomment-3702276070) in [frappe/frappe](https://github.com/frappe/frappe)
 <!--END_SECTION:activity-->
 </details>
 
