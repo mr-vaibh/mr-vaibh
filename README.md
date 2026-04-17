@@ -62,10 +62,11 @@ Manage and share secrets across teams securely.
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Get Started with the MERN Stack — the easy way](https://blog.devgenius.io/how-to-get-started-with-the-mern-stack-the-easy-way-b9758fe45956?source=rss-3cc4b804b385------2)
-- [Algorithm to Calculate "Time On Page" in JavaScript using sendBeacon&lpar;&rpar;](https://javascript.plainenglish.io/best-algorithm-to-implement-time-on-page-in-vanilla-javascript-using-sendbeacon-530bc8391ef5?source=rss-3cc4b804b385------2)
-- [Handle MEDIA files in production — Django](https://mrvaibh.medium.com/handle-media-files-in-production-django-cf984aea5490?source=rss-3cc4b804b385------2)
-- [Blockchain — Explained and How to create](https://medium.com/geekculture/blockchain-explained-and-how-to-create-d897bc20db64?source=rss-3cc4b804b385------2)
+- [I Stopped Killing My Dev Server. I Park It Instead.](https://mrvaibh.medium.com/i-stopped-killing-my-dev-server-i-park-it-instead-53629bcd64fd?source=rss-3cc4b804b385------2)
+- [How To Get Started with the MERN Stack — the easy way](https://blog.devgenius.io/how-to-get-started-with-the-mern-stack-the-easy-way-b9758fe45956?source=rss-3cc4b804b385------2)
+- [Algorithm to Calculate “Time On Page” in JavaScript using sendBeacon&lpar;&rpar;](https://javascript.plainenglish.io/best-algorithm-to-implement-time-on-page-in-vanilla-javascript-using-sendbeacon-530bc8391ef5?source=rss-3cc4b804b385------2)
+- [Handle MEDIA files in production — Django](https://mrvaibh.medium.com/handle-media-files-in-production-django-cf984aea5490?source=rss-3cc4b804b385------2)
+- [Blockchain — Explained and How to create](https://medium.com/geekculture/blockchain-explained-and-how-to-create-d897bc20db64?source=rss-3cc4b804b385------2)
 - [The Best Practices That Will Make You Pro at Web Development with Django](https://python.plainenglish.io/django-best-practices-mistakes-7e7ae5dcf89c?source=rss-3cc4b804b385------2)
 - [The Biggest Myth About Python!](https://python.plainenglish.io/python-is-not-a-slow-language-274bf036af24?source=rss-3cc4b804b385------2)
 - [Is GitHub Copilot worth the cockpit?](https://mrvaibh.medium.com/is-github-copilot-worth-the-cockpit-231db9fe3ac4?source=rss-3cc4b804b385------2)
