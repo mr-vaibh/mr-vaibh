@@ -101,7 +101,7 @@ Manage and share secrets across teams securely.
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/mr-vaibh/loredump/releases/tag/v1.0.0) in [mr-vaibh/loredump](https://github.com/mr-vaibh/loredump)
+1. 🎉 Merged PR [#39](https://github.com/mr-vaibh/athel/pull/39) in [mr-vaibh/athel](https://github.com/mr-vaibh/athel)
 <!--END_SECTION:activity-->
 </details>
 
